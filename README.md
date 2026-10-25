@@ -221,3 +221,8 @@ Thank you for championing open, composable, and high-performance digital commerc
 
 </div>
 >>>>>>> 29e25db9d61a3d5186be4444b7ce714c1e29abd8
+Copy-Item README.md README.md.bak -Force
+# Manual step: replace SaaS and Open-Source sections with content above
+git add README.md
+git commit -m "docs: add enterprise e-commerce pricing (Shopify Plus, Salesforce GMV model, BigCommerce tiers, SAP TCO) and open-source WooCommerce"
+git push
