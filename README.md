@@ -104,9 +104,9 @@ In terms of competitive landscape, the sector is **moderately fragmented and und
 
 ## 💻 Open-Source GitHub Projects
 
-*Production-ready open-source platforms, composable headless cart engines, and modular e-commerce frameworks, **ranked in descending order by GitHub Star Count**.*
+*Production-ready open-source platforms, composable headless cart engines, and modular e-commerce frameworks, **ranked in descending order by GitHub Stars_Count**.*
 
-| Repository & Platform 🌐 | GitHub Stars ⭐ | Primary Tech Stack 💻 | Architecture & Enterprise Capabilities 📝 | License 📜 |
+| Repository & Platform 🌐 | GitHub_Stars ⭐ | Primary Tech Stack 💻 | Architecture & Enterprise Capabilities 📝 | License 📜 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Mall](https://github.com/macrozheng/mall)** | [![Stars](https://img.shields.io/github/stars/macrozheng/mall?style=social&color=white)](https://github.com/macrozheng/mall/stargazers) | Java / Spring Boot / MyBatis | Massively popular enterprise-grade cloud commerce platform featuring microservices, multi-tier caching, dynamic permissions, and comprehensive order pipelines. | MIT |
 | **[Medusa](https://github.com/medusajs/medusa)** | [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | Node.js / TypeScript | Composable, modular commerce engine and open-source Shopify alternative; features decoupled architectural modules, Next.js starter templates, and flexible workflow engine. | MIT |
@@ -184,7 +184,7 @@ Contributions from software engineers, solutions architects, and enterprise comm
 
 1. 🍴 **Fork** this repository.
 2. 🌿 **Create a new branch**: `git checkout -b feat/add-new-commerce-engine`
-3. ✏️ **Add your entry** adhering to the exact tabular schema, including verified specific pricing, explicit free tier limits, or GitHub star count badges (`style=social&color=white`).
+3. ✏️ **Add your entry** adhering to the exact tabular schema, including verified specific pricing, explicit free tier limits, or GitHub Stars_Count badges (`style=social&color=white`).
 4. 🚀 **Commit & Push**: `git commit -m "Add [Platform Name] to Enterprise E-Commerce directory"`
 5. 📬 **Submit a Pull Request** with a brief summary of how the platform serves enterprise workloads.
 
